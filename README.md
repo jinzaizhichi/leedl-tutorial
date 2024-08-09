@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/datawhalechina/leedl-tutorial)](https://github.com/datawhalechina/leedl-tutorial/issues) [![GitHub stars](https://img.shields.io/github/stars/datawhalechina/leedl-tutorial)](https://github.com/datawhalechina/leedl-tutorial/stargazers) [![GitHub forks](https://img.shields.io/github/forks/datawhalechina/leedl-tutorial)](https://github.com/datawhalechina/leedl-tutorial/network) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatawhalechina%2Fleedl-tutorial%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 ![Downloads](https://img.shields.io/github/downloads/datawhalechina/leedl-tutorial/total) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
 
-# 李宏毅深度学习教程LeeDL-Tutorial
+# 李宏毅深度学习教程LeeDL-Tutorial（苹果书）
 
 李宏毅老师是台湾大学的教授，其[《机器学习》（2021年春）](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)是深度学习领域经典的中文视频之一。李老师幽默风趣的授课风格深受大家喜爱，让晦涩难懂的深度学习理论变得轻松易懂，他会通过很多动漫相关的有趣例子来讲解深度学习理论。李老师的课程内容很全面，覆盖了到深度学习必须掌握的常见理论，能让学生对于深度学习的绝大多数领域都有一定了解，从而可以进一步选择想要深入的方向进行学习，培养深度学习的直觉，对于想入门深度学习又想看中文讲解的同学是非常推荐的。
 
@@ -14,17 +14,42 @@
 
 - 基于《机器学习》（2017年春）的李宏毅机器学习笔记源文件：https://github.com/datawhalechina/leedl-tutorial/tree/pre_master -->
 
+>ℹ️ **[李宏毅老师推荐](https://twitter.com/HungyiLee2/status/1754042391211004235)：**
+
+<div align=center><img src="https://github.com/datawhalechina/leedl-tutorial/blob/master/assets/prof._lee_twitter.jpg?raw=true" height = "450" alt="李宏毅老师推荐。"></div>
+
+## 纸质版
+
+<img src="https://github.com/datawhalechina/leedl-tutorial/blob/master/assets/apple.png?raw=true" width="300">
+
+购买链接：[京东](https://u.jd.com/muCV8tI) | [当当](https://product.dangdang.com/29766946.html)
+
+<table border="0">
+  <tbody>
+    <tr align="center" >
+      <td>
+         <img width="120" height="120" src="https://github.com/datawhalechina/leedl-tutorial/blob/master/assets/apple_jingdong.jpg" alt="pic">
+        <br>
+        <p>京东扫码购买</p>
+      </td>
+      <td>
+    <img width="120" height="120" src="https://github.com/datawhalechina/leedl-tutorial/blob/master/assets/apple_dangdang_QR.jpg" alt="pic"><br>
+        <p>当当扫码购买</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+豆瓣评分：https://book.douban.com/subject/36997460/
+
+
 ## 最新版PDF下载
 
 地址：https://github.com/datawhalechina/leedl-tutorial/releases
 
 国内地址(推荐国内读者使用)：链接: https://pan.baidu.com/s/1KUOlEMlPi5I4b5ys7aJVjw 提取码: fmuk
 
-
-
->ℹ️ **[李宏毅老师推荐](https://twitter.com/HungyiLee2/status/1754042391211004235)：**
-
-<div align=center><img src="https://github.com/datawhalechina/leedl-tutorial/blob/master/assets/prof._lee_twitter.jpg?raw=true" height = "450" alt="李宏毅老师推荐。"></div>
 
 ## 内容介绍
 
